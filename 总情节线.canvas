@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"2caa95c09a8793da","type":"file","file":"情节片段/真实情节/【情节】强盗见色起意.md","x":40,"y":-815,"width":720,"height":555},
+		{"id":"0168121b3dc82a60","type":"file","file":"情节片段/真实情节/【情节】动手.md","x":880,"y":-815,"width":720,"height":555},
+		{"id":"dc2d6abe49e64906","type":"file","file":"情节片段/真实情节/【情节】劝诱.md","x":1720,"y":-815,"width":720,"height":555},
+		{"id":"bf64e84825bb3611","type":"file","file":"情节片段/真实情节/【情节】僧人路上遇见夫妻.md","x":-680,"y":-705,"width":400,"height":335},
+		{"id":"433add62cbd5f4b7","type":"file","file":"情节片段/真实情节/【情节】女人的要求.md","x":2560,"y":-815,"width":720,"height":555},
+		{"id":"a21a164829559ede","type":"file","file":"情节片段/真实情节/【情节】强盗离去.md","x":3400,"y":-815,"width":720,"height":555},
+		{"id":"6f98e750b3a4e4b9","type":"file","file":"情节片段/真实情节/【情节】武士之死.md","x":4240,"y":-815,"width":720,"height":555},
+		{"id":"068ee4bf2f227a0c","type":"file","file":"情节片段/真实情节/【情节】樵夫偷匕首.md","x":5060,"y":-815,"width":720,"height":555},
+		{"id":"d54e942e1f79ea32","type":"file","file":"情节片段/真实情节/【情节】强盗被捕.md","x":5880,"y":-815,"width":720,"height":555},
+		{"id":"49441fb33310a07a","x":1720,"y":-160,"width":720,"height":800,"type":"file","file":"情节片段/武士口中的情节/【情节】武士口中的劝诱.md"},
+		{"id":"bdda3d5d716de966","x":2560,"y":-160,"width":720,"height":800,"type":"file","file":"情节片段/武士口中的情节/【情节】武士口中女人的要求.md"},
+		{"id":"add5697a39a5842d","x":3400,"y":-160,"width":720,"height":800,"type":"file","file":"情节片段/武士口中的情节/【情节】武士口中的强盗离去.md"},
+		{"id":"277da093c7c0519b","x":4240,"y":-160,"width":720,"height":800,"type":"file","file":"情节片段/武士口中的情节/【情节】武士口中的武士之死.md"}
+	],
+	"edges":[
+		{"id":"f6e5216399a967d3","fromNode":"bf64e84825bb3611","fromSide":"right","toNode":"2caa95c09a8793da","toSide":"left"},
+		{"id":"a67f766c72ed95fb","fromNode":"2caa95c09a8793da","fromSide":"right","toNode":"0168121b3dc82a60","toSide":"left"},
+		{"id":"9b2dfb8ef7b14181","fromNode":"0168121b3dc82a60","fromSide":"right","toNode":"dc2d6abe49e64906","toSide":"left"},
+		{"id":"784b8b49bfefaf6e","fromNode":"dc2d6abe49e64906","fromSide":"right","toNode":"433add62cbd5f4b7","toSide":"left"},
+		{"id":"6fcba0e6c95590bf","fromNode":"433add62cbd5f4b7","fromSide":"right","toNode":"a21a164829559ede","toSide":"left"},
+		{"id":"671be3013871d728","fromNode":"a21a164829559ede","fromSide":"right","toNode":"6f98e750b3a4e4b9","toSide":"left"},
+		{"id":"2840d818e6449131","fromNode":"6f98e750b3a4e4b9","fromSide":"right","toNode":"068ee4bf2f227a0c","toSide":"left"},
+		{"id":"9414a3bf405f075a","fromNode":"068ee4bf2f227a0c","fromSide":"right","toNode":"d54e942e1f79ea32","toSide":"left"}
+	]
+}
