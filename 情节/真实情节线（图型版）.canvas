@@ -1,8 +1,8 @@
 {
 	"nodes":[
-		{"id":"0168121b3dc82a60","type":"file","file":"情节/情节：动手.md","x":920,"y":-815,"width":720,"height":555},
+		{"id":"0168121b3dc82a60","type":"file","file":"情节/【情节】动手.md","x":920,"y":-815,"width":720,"height":555},
 		{"id":"bf64e84825bb3611","type":"file","file":"情节/僧人路上遇见夫妻.md","x":-480,"y":-815,"width":400,"height":140},
-		{"id":"2caa95c09a8793da","type":"file","file":"情节/情节：见色起意.md","x":40,"y":-815,"width":720,"height":555}
+		{"id":"2caa95c09a8793da","type":"file","file":"情节/【情节】见色起意.md","x":40,"y":-815,"width":720,"height":555}
 	],
 	"edges":[
 		{"id":"f6e5216399a967d3","fromNode":"bf64e84825bb3611","fromSide":"right","toNode":"2caa95c09a8793da","toSide":"left"},
